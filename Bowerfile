@@ -4,5 +4,4 @@
 assets_path "assets/javascripts"
 # asset 'bootstrap'
 asset 'angular'
-asset 'bootstrap-ui'
 asset 'bootstrap'
