@@ -13,4 +13,4 @@
 //= require jquery
 //= require jquery_ujs
 //= require angular
-//= require bootstrap-ui
+//= require bootstrap
