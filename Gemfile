@@ -42,3 +42,5 @@ gem 'kaminari'
 gem 'active_model_serializers'
 
 gem 'font-awesome-rails'
+
+gem 'bower-rails'
